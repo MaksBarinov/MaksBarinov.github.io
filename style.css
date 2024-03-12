@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+.header {
+    background-image: url(river.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header {
+    
+    color: aliceblue;
+}
+a {
+    text-decoration: none;
+}
+
+.social {
+    color: aquamarine ;
+    padding-left: 25px;
+    font-size: 20px;
+    padding-top: 10px;
+}
+.name {
+    width: 900px;
+    height: 130px;
+    background: rgba(0,0,0,0.5);
+    border-radius: 20px;
+    margin: auto;
+    font-weight: 670;
+    font-size: 120px;
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.inf1 {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inf2 {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 20px;
+}
+.mail {
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.phone {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text {
+    padding-top: 10%;
+}
+.other {
+    width: 900px;
+    height: 215px;
+    background: rgba(0,0,0,0.7);
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 1%;
+    padding-bottom: 10px;
+}
